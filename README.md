@@ -3,7 +3,7 @@
 🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
 <!--
-THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+THE-GOKU/THE-GOKU is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -15,20 +15,20 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
 
 
 <h2 align="center">
-    ─「 𝐒𝐇𝐈𝐕 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 GOKU MUSIC 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <h2 align="center">
-    ─「 sʜɪᴠ ダ ᴍᴜsɪᴄ 」─
+    ─「 GOKU ダ MUSIC 」─
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ccb70957819c2abfa5466.jpg">
+  <img src="https://telegra.ph/file/13eae4c3854ccbdd8dabf.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/Rajputshivsingh65/DNS-MUSIC/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Gokukhan1/WAIFUmusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/AnonymousX1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
@@ -49,7 +49,7 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://t.me/Dns_Official_Channel)
+- Get your [Necessary Variables](https://t.me/lolpagalokigc)
 - Upgrade and Update by :
 sudo apt-get update && sudo apt-get upgrade -y
 - Install Ffmpeg by :
@@ -61,7 +61,7 @@ sudo pip3 install -U pip
 - Install Node js by :
 curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 - Clone the repository by :
-git clone https://github.com/Rajputshivsingh65/DNS-MUSIC && cd DNS-MUSIC
+git clone https://github.com/Gokukhan1/WAIFUmusic && cd DNS-MUSIC
 - Install requirements by :
 pip3 install -U -r requirements.txt
 - Fill your variables in the env by :
@@ -89,4 +89,4 @@ bash start
 <a href="https://t.me/chiponly"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʀᴀᴊᴘᴜᴛ sʜɪᴠ](https://t.me/Dns_Official_Channel) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Dns_Official_Channel)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [THE GOKU](https://t.me/lolpagalokigc) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/chiponly)_ </b>
